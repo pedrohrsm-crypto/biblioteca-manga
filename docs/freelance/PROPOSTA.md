@@ -70,13 +70,11 @@ Fator **1,3** nos módulos do starter e **1,5** no inédito.
 | PM (integração e relatório) | — | — | — | 4 |
 | **Total** | **7,17** | | **9,62 h** | **6 frentes e PM + 8 de analista (2 já feitas)** |
 
-**Custo de IA (hipótese):** pelas medianas de `dados/sessoes.csv` em 3-Nov-2026, com n pequeno: frente US$ 6,28
-(Velix, n = 3), analista US$ 4,65 (Velix, n = 12) e PM US$ 11,40 (Velix, n = 2). A conta: 5 frentes do inédito × 6,28 × 1,5
-+ 1 frente do Dia 0 × 6,28 × 1,3 + 8 rodadas de analista × 4,65 × 1,3 + 4 sessões de PM × 11,40 × 1,3 ≈ **US$ 163**.
-Com o câmbio de referência de R$ 5,40 por dólar (**não conferido**), dá cerca de **R$ 880**.
+**Custo de IA (hipótese):** pelas medianas internas de custo por sessão do framework (frente, analista e PM), com
+fator 1,5 no inédito e 1,3 no resto, ≈ **US$ 163**, cerca de **R$ 880** com o câmbio de referência de R$ 5,40 (**não conferido**).
 
 **Calendário (15 §2.3):** 9,6 h ÷ **5 h por semana** dedicadas à biblioteca (premissa: o Pedro divide a semana
-com o Velix, o Moto e a Loja) = **2 semanas de trabalho**, de 4-Nov a 17-Nov. A data de 17-Nov (D7) **cabe
+com outros projetos) = **2 semanas de trabalho**, de 4-Nov a 17-Nov. A data de 17-Nov (D7) **cabe
 sem folga**: qualquer espera do cliente acima de 24 h empurra a entrega (risco R7).
 
 Premissas (se uma falhar, prazo e preço são revistos):
